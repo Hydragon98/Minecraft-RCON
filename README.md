@@ -1,19 +1,19 @@
-# Minecraft-Hydra-RCON
-#####Tool for send server command via RCON protocal of minecraft server by website.
+# Minecraft-RCON
+##### Tool for send server command via RCON protocal of minecraft server by website.
 
 ![alt tag](https://pp.vk.me/c631118/v631118469/487ab/1Ex1vUgSaVY.jpg)
 
 ![alt tag](https://pp.vk.me/c631118/v631118469/487b3/puLrtMA_ktU.jpg)
 
-### Version
+# Version
 
-#####2.1
+# 2.1
 * Change query library.
 * Fix responsive on mobile.
 * Update jquery version.
 * Update bootstrap version.
 
-#####2.0
+# 2.0
 * Responsive design.
 * Change theme.
 * Fix file path.
@@ -21,7 +21,7 @@
 * Update jquery version.
 * Update bootstrap version.
 
-#####1.0
+# 1.0
 * Send command to server directly.
 * Show server status and number of current player online.
 * List all name of current player online.
