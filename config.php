@@ -16,11 +16,10 @@ This file is part of Hydra-RCON.
     along with Hydra-RCON-Console.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-$rconHost = "176.36.69.102";
+$rconHost = "localhost";
 $rconPort = 25575;
-$rconPassword = "qwv2e3r4";
-
-$queryHost = "176.36.69.102";
+$rconPassword = "rconpassword";
+$queryHost = "localhost";
 $queryPort = 25585;
 
 ?>
